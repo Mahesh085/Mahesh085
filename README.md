@@ -28,10 +28,10 @@ I love working with tools that make development, deployment, and monitoring seam
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umamahesht/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20with%20Uma%20Mahesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mahesh085" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Profile-Mahesh085-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Mahesh085-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 ---
