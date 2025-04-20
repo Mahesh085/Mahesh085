@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Mahesh085/Mahesh085/blob/main/Banner.png" alt="Banner" />
+  <img src="https://github.com/Mahesh085/Mahesh085/blob/main/Banner.jpg" alt="Banner" />
 </p>
 
 <!-- About Me -->
