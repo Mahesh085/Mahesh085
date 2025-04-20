@@ -26,40 +26,14 @@ Here are some ideas to get you started:
 I’m **Uma Mahesh**, a passionate **DevOps Engineer** with over **3 years of experience** in automating, optimizing, and scaling infrastructure and deployment pipelines.  
 I love working with tools that make development, deployment, and monitoring seamless. Always learning, always automating!
 
-<!-- Modern Buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/uma-mahesh-b051a41b6/" target="_blank" style="text-decoration:none;">
-    <button style="
-      background-color:#0077B5;
-      border:none;
-      color:white;
-      padding: 12px 24px;
-      margin: 10px;
-      font-size: 16px;
-      border-radius: 8px;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      cursor: pointer;
-      box-shadow: 2px 4px 10px rgba(0,0,0,0.15);
-    ">🔗 Connect with Uma Mahesh on LinkedIn</button>
+  <a href="https://www.linkedin.com/in/umamahesht/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20Uma%20Mahesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/Mahesh085" target="_blank" style="text-decoration:none;">
-    <button style="
-      background-color:#24292e;
-      border:none;
-      color:white;
-      padding: 12px 24px;
-      margin: 10px;
-      font-size: 16px;
-      border-radius: 8px;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      cursor: pointer;
-      box-shadow: 2px 4px 10px rgba(0,0,0,0.15);
-    ">💻 View My GitHub Profile</button>
+  <a href="https://github.com/Mahesh085" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-Mahesh085-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
 ---
 
 <!-- Connect with Me -->
