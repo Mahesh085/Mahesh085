@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Uma%20Mahesh%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://github.com/Mahesh085/Mahesh085/blob/main/Banner.png" alt="Banner" />
 </p>
 
 <!-- About Me -->
@@ -28,12 +28,13 @@ I love working with tools that make development, deployment, and monitoring seam
 
 <!-- Buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/umamahesht/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Uma%20Mahesh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="https://github.com/Mahesh085" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Mahesh085-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/umamahesht/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Uma%20Mahesh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
 </p>
 
 ---
@@ -53,18 +54,18 @@ I love working with tools that make development, deployment, and monitoring seam
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-</p>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
+  
+  </p>
 
 ---
 
